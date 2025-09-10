@@ -111,7 +111,7 @@ npx expo start --web
 - Update status on dashboard → Syncs back to mobile
 - Real-time notifications for new reports
 
-## 🎯 **SIH 2024 Problem Statement**
+## 🎯 **SIH 2025 Problem Statement**
 
 **Problem**: Inefficient civic issue reporting and resolution processes in Indian cities
 
